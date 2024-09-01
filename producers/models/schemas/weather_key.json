@@ -1,0 +1,11 @@
+{
+    "type": "record",
+    "name": "weather.key",
+    "namespace": "com.cta.transport",
+    "fields": [
+        {
+            "name": "timestamp",
+            "type": "long"
+        }
+    ]
+}
